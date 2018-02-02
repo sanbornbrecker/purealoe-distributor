@@ -10,11 +10,11 @@
 
 1. In Setup > Users > Permission Sets, assign your integration user to the purealoe permission set.
 
-1. Create a Connected App in a developer edition org or in your hub org (not in your scratch org)
+1. Create a Connected App in your scratch org.
 
 1. Clone this repository:
     ```
-    git clone https://github.com/dreamforce17/purealoe-distributor
+    git clone https://github.com/sanbornbrecker/purealoe-distributor
     cd purealoe-distributor
     ```
 
