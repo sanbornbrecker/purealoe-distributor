@@ -4,7 +4,7 @@
 
 ## Installation Instructions
 
-1. Install the Pure Aloe Salesforce application first. See instructions here: https://github.com/sanborbrecker/purealoe
+1. Install the Pure Aloe Salesforce application first. See instructions here: https://github.com/sanbornbrecker/purealoe
 
 1. In Setup > Users, create an integration user that you will use to connect to Salesforce from the Node.js app. Select **Salesforce** as the license type and **System Administrator** as the profile. Log in at least one with that user in a browser (https://test.salesforce.com), and select to not register your phone number.
 
